@@ -1,5 +1,6 @@
 /// <reference types="cypress" />
 
+// @TODO: Go through these values
 describe('Aliases', () => {
   beforeEach(() => {
     cy.visit('/jetsetter');
